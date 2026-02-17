@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Santiago Artaza
-
 💻 Desarrollador Full-Stack en formación con fuerte orientación a Backend  
-🎓 Estudiante en UTN FRC  
 🚀 Apasionado por la arquitectura limpia, APIs REST y sistemas escalables  
 
 ---
