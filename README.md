@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago Artaza
 
-<!--
-**SantiagoArtaza/SantiagoArtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full-Stack en formación con fuerte orientación a Backend  
+🎓 Estudiante en UTN FRC  
+🚀 Apasionado por la arquitectura limpia, APIs REST y sistemas escalables  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Actualmente desarrollo aplicaciones utilizando tecnologías modernas como **.NET 8, Spring Boot y Angular 20**, trabajando con arquitectura en capas, autenticación JWT y bases de datos relacionales.
+
+Me interesa especialmente:
+
+- 🔹 Backend Development
+- 🔹 Diseño de APIs REST
+- 🔹 Microservicios
+- 🔹 Docker y contenerización
+- 🔹 Buenas prácticas y código limpio
+
+Estoy en constante aprendizaje, construyendo proyectos académicos y personales que me permiten fortalecer mis habilidades técnicas y de arquitectura.
+
+---
+
+## 🚀 Tecnologías
+
+### 🖥️ Backend
+- .NET 8
+- Spring Boot
+- Entity Framework Core
+- REST APIs
+- JWT Authentication
+
+### 🌐 Frontend
+- Angular 20
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+
+### 🗄️ Bases de datos
+- PostgreSQL
+- SQL Server
+- Diseño relacional
+
+### ⚙️ DevOps & Tools
+- Docker & Docker Compose
+- Git & GitHub
+- IntelliJ IDEA
+- Visual Studio
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 **ManitasApp**  
+Plataforma de servicios con arquitectura basada en roles (ADMIN, PRESTADOR, CONTRATADOR).  
+Stack: Angular + Spring Boot + PostgreSQL + Docker.
+
+🔹 **Gestión de Cursos**  
+Sistema con autenticación JWT y arquitectura en capas.  
+Stack: Angular + .NET 8 + SQL Server.
+
+🔹 **Inventory-Service**  
+Microservicio para gestión de stock con PostgreSQL y Docker.
+
+---
+
+## 🎯 Objetivo profesional
+
+Mi meta es crecer como **Backend Developer o Full-Stack Developer**, participando en proyectos reales donde pueda aportar solidez técnica, buenas prácticas y compromiso profesional.
+
+---
+
+## 📫 Contacto
+
+📍 Córdoba, Argentina  
+💼 LinkedIn: (agregá tu link acá)  
+📧 Email: (agregá tu mail acá)
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos interesantes y desafíos técnicos.
