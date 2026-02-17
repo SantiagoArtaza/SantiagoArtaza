@@ -72,8 +72,8 @@ Mi meta es crecer como **Backend Developer o Full-Stack Developer**, participand
 ## 📫 Contacto
 
 📍 Córdoba, Argentina  
-💼 LinkedIn: (agregá tu link acá)  
-📧 Email: (agregá tu mail acá)
+💼 LinkedIn: https://www.linkedin.com/in/santiago-artaza/
+📧 Email: S.ariel.out@gmail.com
 
 ---
 
